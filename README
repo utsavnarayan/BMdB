@@ -1,3 +1,10 @@
 ########### BMDB: Bollywood Movie Database #################
-Phase: 1 - Push current php code to an original branch
-Phase: 2 - 
+Prerequisites: LAMP should be installed
+
+Steps:
+1. Import BMdB.sql into your mysql
+2. unzip posters.rar and person.rar in the same directory
+
+Helpful links:
+http://www.unixmen.com/install-lamp-with-1-command-in-ubuntu-1010-maverick-meerkat/
+http://stackoverflow.com/questions/5152921/import-sql-file-from-mysql-console

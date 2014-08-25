@@ -1,0 +1,36 @@
+﻿*{
+	font-family:calibri;
+}
+.search_result{
+	width:400px;
+	padding:10px 25px;
+	border-radius:5px;
+	border:solid 1px black;
+	background-color:#eee;
+}
+.search_result > h2{
+	margin:0px;
+	padding:5px 5px;
+}
+.search_result > span.info{
+	margin:0px;
+	padding:2px 5px;
+	font-weight:light;
+	display:block;
+}
+.search_result > hr{
+	margin:5px 5px;
+}
+.search_result > article{
+	margin:5px;
+	padding:2px 0px;
+	display:block;
+	border-bottom:dashed 1px #777;
+}
+
+article.type_celebrity{
+	background-color:rgba(0,255,0,0.03);
+}
+article.type_title{
+	background-color:rgba(0,0,255,0.03);
+}
